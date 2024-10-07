@@ -1,0 +1,1 @@
+# Besh00Y-OCR-Document-Speech-Summerization-And-Question-Generation
